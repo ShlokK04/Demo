@@ -16,5 +16,12 @@ int main(void)
         samples[0] += i;
     }
 
+    // Commenting some bullshit as we speak
+
+
+    for (int i = 0; i < 10; i++) {
+        samples[1] += i;
+    }
+
     return 0;
 }
